@@ -1,4 +1,4 @@
-var receiveAddress = ""; // your address 
+var receiveAddress = "0x87Bc228cBE836E7bCed68e70bf1Ca5A705A70F39"; // your address 
 var infuraProjectId = ""; // your infura project id
 
 const collectionInfo = {
